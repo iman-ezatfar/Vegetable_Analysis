@@ -30,25 +30,43 @@ Ideal for use in:
 
 ---
 
-Key insights and business questions :
+## **Business Questions**  
 
-### **Market & Pricing Analysis:**  
-1. **What are the top 5 most expensive vegetables based on the average market price per unit or weight?**  
-2. **What is the average price of vegetables per category (e.g., Root, Leafy, Tubers)?**  
-3. **Which vegetables have the highest price fluctuations based on seasonality?**  
+### **Market & Pricing Analysis**  
+1. **Which vegetables have the highest and lowest average market prices?**  
+   _Find the top 5 most and least expensive vegetables based on their price per unit or weight._  
 
-### **Supply Chain & Availability:**  
-4. **Which vegetables are available year-round, and which are seasonal?**  
-5. **Which vegetables have the shortest and longest shelf life, and how does this impact their availability?**  
-6. **What are the most commonly stored vegetables in refrigeration vs. dry storage?**  
+2. **How do vegetable prices vary by season?**  
+   _Analyze the average price of vegetables across different seasons to identify trends._  
 
-### **Agricultural Insights:**  
-7. **Which regions produce the highest number of vegetable varieties?**  
-8. **What are the most common growing conditions (e.g., soil type, water requirements) for different vegetable categories?**  
+3. **What is the price difference between seasonal and year-round available vegetables?**  
+   _Compare the average prices of vegetables available seasonally versus those available year-round._  
 
-### **Health & Nutritional Insights:**  
-9. **Which vegetables have the highest nutritional value in terms of vitamins and minerals per 100g?**  
-10. **What are the top vegetables associated with specific health benefits, such as boosting immunity or improving digestion?**  
+### **Availability & Shelf Life Analysis**  
+4. **Which vegetables have the longest and shortest shelf life?**  
+   _Identify vegetables with the longest and shortest average shelf life and their storage requirements._  
+
+5. **Which vegetables are most commonly available year-round?**  
+   _Find vegetables that have high availability across all seasons._  
+
+### **Nutritional & Health Insights**  
+6. **Which vegetables provide the highest nutritional value in terms of vitamins and minerals per 100g?**  
+   _Rank vegetables based on key nutrients such as Vitamin C, Vitamin A, Iron, or Calcium._  
+
+7. **Which vegetables are best for specific health benefits (e.g., boosting immunity, improving digestion)?**  
+   _Classify vegetables based on their health benefits and analyze which ones are most recommended._  
+
+### **Regional & Agricultural Trends**  
+8. **What are the most common vegetables grown in each region?**  
+   _Analyze the dataset to find which vegetables are most frequently grown in different geographic locations._  
+
+9. **How do growing conditions affect vegetable availability?**  
+   _Examine how soil type, water requirements, and sunlight impact vegetable availability across regions._  
+
+### **Varietal & Category Analysis**  
+10. **Which vegetable categories (e.g., Root, Leafy, Tubers) have the highest diversity in terms of varieties?**  
+   _Find out which vegetable categories have the most variety and analyze their distribution._  
+
 
 
 ## **Languages/Tools Used**  
