@@ -47,24 +47,17 @@ Ideal for use in:
    _Identify vegetables with the longest and shortest average shelf life and their storage requirements._  
 
 5. **Which vegetables are most commonly available year-round?**  
-   _Find vegetables that have high availability across all seasons._  
-
-### **Nutritional & Health Insights**  
-6. **Which vegetables provide the highest nutritional value in terms of vitamins and minerals per 100g?**  
-   _Rank vegetables based on key nutrients such as Vitamin C, Vitamin A, Iron, or Calcium._  
-
-7. **Which vegetables are best for specific health benefits (e.g., boosting immunity, improving digestion)?**  
-   _Classify vegetables based on their health benefits and analyze which ones are most recommended._  
+   _Find vegetables that have high availability across all seasons._   
 
 ### **Regional & Agricultural Trends**  
-8. **What are the most common vegetables grown in each region?**  
+6. **What are the most common vegetables grown in each region?**  
    _Analyze the dataset to find which vegetables are most frequently grown in different geographic locations._  
 
-9. **How do growing conditions affect vegetable availability?**  
+7. **How do growing conditions affect vegetable availability?**  
    _Examine how soil type, water requirements, and sunlight impact vegetable availability across regions._  
 
 ### **Varietal & Category Analysis**  
-10. **Which vegetable categories (e.g., Root, Leafy, Tubers) have the highest diversity in terms of varieties?**  
+8. **Which vegetable categories (e.g., Root, Leafy, Tubers) have the highest diversity in terms of varieties?**  
    _Find out which vegetable categories have the most variety and analyze their distribution._  
 
 
