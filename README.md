@@ -1,4 +1,6 @@
 # Vegetable Analysis Dataset
+<img src="https://github.com/user-attachments/assets/8d57cb13-5737-4757-8075-542ed3c45e6e" alt="This is a screenshot of my project" width="400">
+
 
 ## About the Dataset
 This dataset contains detailed information on a wide variety of vegetables from different regions across the world. Each entry includes data on the vegetable's category, color, seasonality, origin, nutritional value, pricing, availability, shelf life, storage requirements, growing conditions, health benefits, and common varieties. The dataset is structured to facilitate research and data analysis, offering insights into agricultural trends, nutritional science, and market dynamics.  
